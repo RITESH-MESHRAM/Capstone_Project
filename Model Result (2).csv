@@ -1,0 +1,8 @@
+Model,Score
+Linear Regression ,0.484516
+Ridge,0.484513
+Decision Tree,0.63242
+SVm,0.7509007
+Random Forest,0.829348
+AdaBoost,0.455507
+Gradient Boost,0.640093
